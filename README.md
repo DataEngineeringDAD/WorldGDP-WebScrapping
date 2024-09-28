@@ -1,7 +1,4 @@
-# Hands-on Lab: Extract, Transform and Load GDP Data
-
-## Introduction
-In this practice project, you will utilize the skills acquired through the course to create a complete ETL pipeline for accessing data from a website and processing it to meet the requirements.
+# Extract, Transform and Load GDP Data
 
 ### Project Scenario
 An international firm seeking to expand its business in various countries has recruited you as a junior Data Engineer. You are tasked with creating an automated script to extract the list of all countries ordered by their GDPs in billion USD (rounded to 2 decimal places), as reported by the International Monetary Fund (IMF). Since the IMF releases this evaluation biannually, this code will be used by the organization to extract updated information.
